@@ -4,7 +4,11 @@ Question: What are the top-paying data analyst jobs?
 - Focuses on job postings with specified salaries (remove nulls)
 - BONUS: Include company names of top 10 roles
 - Why? Highlight the top-paying opportunities for Data Analysts, offering insights into employment options and location flexibility.
+    -helping job seekers to understand which skills to develop that align with top salaries 
 */
+
+
+
 
 
 SELECT 
@@ -25,9 +29,16 @@ LIMIT 10
 
 
 
+/*
+    These are the absolute must-haves—they appear most frequently:
 
+SQL (8 times) → 🥇 Most important skill
+Python (7 times) → Nearly mandatory
+Tableau (6 times) → Top visualization tool
 
+👉 Insight:
 
+If you don’t know SQL + Python + Tableau, you are not competitive for most roles.
+SQL is still more demanded than Python for analysts
+*/
 
-
- 
