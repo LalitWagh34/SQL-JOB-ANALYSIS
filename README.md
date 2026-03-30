@@ -134,10 +134,12 @@ HAVING COUNT(skills_job_dim.job_id) > 10
 ORDER BY avg_salary DESC, demand_count DESC
 LIMIT 25;
 ```
-📊 Dataset files
-👉 **[Open Google Drive Folder](https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN)**
+
 > 💡 Skills like **Python, Tableau, and SQL** balance both dimensions — high demand AND strong salaries. The true "learn these first" list.
 
+---
+📊 Dataset files
+👉 **[Open Google Drive Folder](https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN)**
 ---
 
 ## 💡 What I Learned
