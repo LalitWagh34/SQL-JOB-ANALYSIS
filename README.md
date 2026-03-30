@@ -7,6 +7,9 @@ This project dives into the data analyst job market using SQL to answer real-wor
 The dataset contains job postings with salary data, company info, required skills, and remote-work flags — all loaded into a relational PostgreSQL database and queried across 5 structured analyses.
 
 ---
+📊 Dataset files
+👉 **[Open Google Drive Folder](https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN)**
+---
 
 ## 🛠️ Tools I Used
 
@@ -138,9 +141,7 @@ LIMIT 25;
 > 💡 Skills like **Python, Tableau, and SQL** balance both dimensions — high demand AND strong salaries. The true "learn these first" list.
 
 ---
-📊 Dataset files
-👉 **[Open Google Drive Folder](https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN)**
----
+
 
 ## 💡 What I Learned
 
